@@ -1,3 +1,6 @@
-name = "wp"
+name = "workerpedia"
 main = "_worker.js"
 compatibility_date = "2023-11-26"
+
+[placement]
+mode = "smart"
